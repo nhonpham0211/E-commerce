@@ -61,7 +61,7 @@ export default function Header() {
 
       <div className="logo">
         <h1>
-          <Link to="/">{isAdmin ? "Admin" : "DevAT Shop"}</Link>
+          <Link to="/">{isAdmin ? "Admin" : "E-Commerce Shop"}</Link>
         </h1>
       </div>
 
